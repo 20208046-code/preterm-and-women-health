@@ -57,6 +57,26 @@ and **live ultrasound image classification** (real results, not mock-ups):
 
 ---
 
+## Dataset Samples
+
+> Full datasets are **not** included in this repository (size and privacy). These
+> are small, representative samples to illustrate what the models were trained on.
+
+**Preterm-risk data — `births.csv`** (~3.1M U.S. natality records, 9.2% preterm rate):
+
+![Births data sample](docs/data-samples/births_preview.png)
+
+A 60-row sample is included at
+[`docs/data-samples/births_sample.csv`](docs/data-samples/births_sample.csv).
+
+**Ultrasound image data** (3 classes — benign / malignant / normal):
+
+![Ultrasound samples](docs/data-samples/ultrasound_samples.png)
+
+Six sample images are in [`docs/data-samples/ultrasound/`](docs/data-samples/ultrasound).
+
+---
+
 ## Machine-Learning Engineering Highlights
 
 This project was as much about **honest ML evaluation** as about building models:

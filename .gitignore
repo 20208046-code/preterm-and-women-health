@@ -38,6 +38,8 @@ build/
 # Dataset
 births.csv
 *.csv
+# ...but DO include the small public data sample shown in the README
+!docs/data-samples/births_sample.csv
 # Trained model binaries (regenerate with the training scripts)
 *.joblib
 *.h5

@@ -1,0 +1,61 @@
+age_group,reported_race_ethnicity,previous_births,tobacco_use_during_pregnancy,adequate_prenatal_care,preterm_indicator
+Under 15 yrs,"Black, non-Hispanic","One, Two, Three or More",Yes,Inadequate,0
+15 to 17 yrs,Hispanic (of any race),None,No,Adequate,1
+30 to 34 yrs,"Black, non-Hispanic","One, Two, Three or More",No,Inadequate,0
+50+ yrs,"White, non-Hispanic",None,No,Adequate,1
+15 to 17 yrs,Hispanic (of any race),"One, Two, Three or More",No,Adequate,1
+40 to 44 yrs,Hispanic (of any race),"One, Two, Three or More",Yes,Inadequate,0
+50+ yrs,Hispanic (of any race),"One, Two, Three or More",Yes,Inadequate,0
+18 to 19 yrs,"Asian, non-Hispanic",None,Yes,Adequate,0
+50+ yrs,"White, non-Hispanic","One, Two, Three or More",No,Inadequate,1
+Under 15 yrs,"White, non-Hispanic",None,Yes,Adequate,0
+45 to 49 yrs,"White, non-Hispanic",None,Yes,Adequate,1
+50+ yrs,Hispanic (of any race),None,No,Inadequate,1
+20 to 24 yrs,"Asian, non-Hispanic","One, Two, Three or More",No,Adequate,0
+20 to 24 yrs,"White, non-Hispanic","One, Two, Three or More",No,Inadequate,0
+40 to 44 yrs,"White, non-Hispanic","One, Two, Three or More",No,Adequate,1
+50+ yrs,"White, non-Hispanic",None,Yes,Adequate,1
+25 to 29 yrs,"Black, non-Hispanic",None,No,Inadequate,0
+Under 15 yrs,"White, non-Hispanic","One, Two, Three or More",No,Inadequate,0
+40 to 44 yrs,"Asian, non-Hispanic","One, Two, Three or More",No,Inadequate,1
+50+ yrs,Hispanic (of any race),"One, Two, Three or More",Yes,Inadequate,1
+25 to 29 yrs,"White, non-Hispanic",None,Yes,Adequate,0
+40 to 44 yrs,"White, non-Hispanic",None,No,Adequate,0
+25 to 29 yrs,"Asian, non-Hispanic",None,Yes,Inadequate,1
+40 to 44 yrs,Hispanic (of any race),"One, Two, Three or More",No,Inadequate,1
+25 to 29 yrs,"Black, non-Hispanic",None,No,Adequate,0
+45 to 49 yrs,"Black, non-Hispanic","One, Two, Three or More",No,Inadequate,1
+50+ yrs,"Black, non-Hispanic","One, Two, Three or More",No,Inadequate,1
+30 to 34 yrs,"Black, non-Hispanic","One, Two, Three or More",Yes,Inadequate,0
+18 to 19 yrs,"Black, non-Hispanic","One, Two, Three or More",Yes,Adequate,1
+30 to 34 yrs,"White, non-Hispanic","One, Two, Three or More",No,Adequate,0
+25 to 29 yrs,"White, non-Hispanic","One, Two, Three or More",No,Adequate,1
+20 to 24 yrs,"Black, non-Hispanic","One, Two, Three or More",No,Inadequate,0
+35 to 39 yrs,"Black, non-Hispanic","One, Two, Three or More",No,Inadequate,0
+50+ yrs,"White, non-Hispanic","One, Two, Three or More",Yes,Inadequate,0
+45 to 49 yrs,"Black, non-Hispanic","One, Two, Three or More",Yes,Adequate,0
+15 to 17 yrs,"White, non-Hispanic",None,No,Inadequate,1
+35 to 39 yrs,"White, non-Hispanic",None,No,Adequate,1
+25 to 29 yrs,"Asian, non-Hispanic",None,Yes,Adequate,0
+30 to 34 yrs,"Black, non-Hispanic",None,No,Adequate,0
+30 to 34 yrs,"White, non-Hispanic","One, Two, Three or More",Yes,Adequate,0
+50+ yrs,"White, non-Hispanic","One, Two, Three or More",No,Inadequate,0
+50+ yrs,"White, non-Hispanic","One, Two, Three or More",Yes,Adequate,1
+35 to 39 yrs,"White, non-Hispanic","One, Two, Three or More",Yes,Inadequate,0
+30 to 34 yrs,"Black, non-Hispanic","One, Two, Three or More",Yes,Adequate,0
+15 to 17 yrs,"White, non-Hispanic","One, Two, Three or More",No,Inadequate,1
+25 to 29 yrs,"Black, non-Hispanic",None,Yes,Inadequate,0
+50+ yrs,"Asian, non-Hispanic",None,No,Inadequate,0
+35 to 39 yrs,Hispanic (of any race),"One, Two, Three or More",Yes,Inadequate,1
+20 to 24 yrs,Hispanic (of any race),"One, Two, Three or More",Yes,Inadequate,1
+18 to 19 yrs,"White, non-Hispanic","One, Two, Three or More",No,Inadequate,1
+18 to 19 yrs,"Black, non-Hispanic",None,Yes,Adequate,0
+40 to 44 yrs,"White, non-Hispanic",None,No,Inadequate,0
+45 to 49 yrs,"Black, non-Hispanic",None,No,Adequate,1
+40 to 44 yrs,"Black, non-Hispanic",None,Yes,Adequate,1
+35 to 39 yrs,"White, non-Hispanic",None,Yes,Adequate,1
+35 to 39 yrs,"Black, non-Hispanic","One, Two, Three or More",No,Adequate,0
+Under 15 yrs,Hispanic (of any race),"One, Two, Three or More",No,Adequate,0
+40 to 44 yrs,"White, non-Hispanic",None,No,Inadequate,1
+30 to 34 yrs,Hispanic (of any race),None,No,Inadequate,0
+50+ yrs,"Asian, non-Hispanic","One, Two, Three or More",No,Adequate,0
