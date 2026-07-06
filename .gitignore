@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build output
+build/
+
+# --- Data files & trained models (NOT uploaded to GitHub) ---
+# Dataset
+births.csv
+*.csv
+# Trained model binaries (regenerate with the training scripts)
+*.joblib
+*.h5
+*.pth
+*.pt
+# Presentation / portfolio documents
+*.pptx
+*.pdf
