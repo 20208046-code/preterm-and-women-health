@@ -8,6 +8,10 @@ A full-stack **women's-health web application** that combines a modern React
 interface with a Python machine-learning backend to (1) estimate **preterm-birth
 risk** from maternal factors and (2) classify **ultrasound images**.
 
+**Datasets:** trained on **~3.1M U.S. natality records** (preterm-birth risk) and a
+**3-class ultrasound image dataset** (benign / malignant / normal). See
+[Dataset Samples](#dataset-samples) below.
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3-000000?logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM%20%7C%20KNN-F7931E?logo=scikitlearn&logoColor=white)
