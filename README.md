@@ -61,6 +61,13 @@ and **live ultrasound image classification** (real results, not mock-ups):
 
 ---
 
+## Documentation & Presentation
+
+- 📄 **[Full project documentation (Word)](documentation/Graduation-Project-Documentation.docx)** — Cairo University graduation project report (introduction, related work, system analysis & design, implementation, testing).
+- 📊 **[Project presentation (PowerPoint)](documentation/Preterm-and-Women-Health-Presentation.pptx)**
+
+---
+
 ## Dataset Samples
 
 > Full datasets are **not** included in this repository (size and privacy). These
