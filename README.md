@@ -17,6 +17,17 @@ risk** from maternal factors and (2) classify **ultrasound images**.
 
 ---
 
+## Demo
+
+A full walkthrough of every feature — including **live SVM preterm-risk prediction**
+and **live ultrasound image classification** (real results, not mock-ups):
+
+![App demo](docs/video/demo.gif)
+
+▶ **[Watch the full-resolution MP4](docs/video/demo.mp4)**
+
+---
+
 ## Screenshots
 
 | Home | Preterm Risk Assessment |
