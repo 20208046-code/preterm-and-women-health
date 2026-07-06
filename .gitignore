@@ -48,3 +48,6 @@ births.csv
 # Presentation / portfolio documents
 *.pptx
 *.pdf
+# ...but DO include the documentation + presentation in the documentation/ folder
+!documentation/*.pptx
+!documentation/*.pdf
