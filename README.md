@@ -1,5 +1,9 @@
 # Preterm and Women Health
 
+> © 2026 Hazem. **All Rights Reserved.** This code is shared publicly for
+> portfolio/evaluation viewing only. You may **not** copy, reuse, or modify it
+> without written permission. See [LICENSE](LICENSE).
+
 A women's-health web app with machine-learning preterm-birth risk prediction.
 
 - **Frontend** — React (Create React App), in `src/`
